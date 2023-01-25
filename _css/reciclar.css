@@ -1,0 +1,240 @@
+﻿
+
+
+
+
+@media screen and (max-width: 768px) {
+
+
+
+.cuidar{
+    margin: 10px auto;
+    color: orange;
+text-align: center;
+}
+
+
+#fotos {
+    width:100%;
+    
+    margin-top: 15px;
+
+}       
+
+
+#imgrecicle{
+ width: 45%;
+    margin: 0 auto;
+   margin-bottom: 5%;
+}
+                 
+#imgrecicle2{
+    width: 40%;
+    margin: 0 auto;
+   margin-bottom: 5%;
+
+}
+
+#fotos1 {
+    width:78%;
+   HEIGHT:300px;
+    
+    margin: 0px auto;
+
+}  
+
+.images{
+    width: 29%;
+height: 250px;
+    margin: 15px 20px;
+    float: left;
+
+}                         
+#imgrecicle2{
+    width: 35%;
+    margin-left: 15%;
+   margin-bottom: 1%;
+float: center;
+
+
+}
+#tit-img{
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+color: blue;
+}
+
+#tit-2{
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+color: #FF4500;
+}
+
+#texto{
+    color: black;
+    font-size: 20px;
+    width: 90%;
+    margin-bottom: 0px;
+
+}
+
+
+#fotos2 {
+    width:78%;
+   HEIGHT:300px;
+    
+    margin: 0px auto;
+
+}  
+
+.images{
+    width: 80%;
+height: 250px;
+    margin: 15px 20px;
+    
+
+}    
+
+#meio-ambiente1{
+    width: 80%;	
+ margin: 2% auto;
+
+}
+
+#meio-ambiente{
+    width: 80%;	
+ margin: 4% auto;
+
+}
+
+
+#meio-ambiente h3{
+	text-align: center;
+}
+
+#meio-ambiente p{
+     text-align: justify;
+     font-size: 20px;
+color: black;
+
+
+}
+
+
+}
+
+@media screen and (min-width: 768px) {
+
+
+#corpo-rec{
+width: 80%;
+height:1200px;	
+ margin: 0 10%;
+}
+
+.cuidar{
+    margin: 10px auto;
+    color: orange;
+text-align: center;
+font-family:30px;
+}
+
+
+#imgrecicle{
+ width: 20%;
+    margin: 0 auto;
+   margin-bottom: 5%;
+position; absolute;
+}
+        
+#fotos1 {
+    width:78%;
+   
+   margin: 0px auto;
+	display: grid;
+        display: flex;
+        flex-flow: row wrap;
+
+
+}  
+
+.images{
+    width: 29%;
+height: 250px;
+    margin: 15px 20px;
+    float: left;
+
+}                         
+#imgrecicle2{
+    width: 35%;
+    margin-left: 15%;
+   margin-bottom: 1%;
+float: center;
+
+
+}
+#tit-img{
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+color: blue;
+}
+
+#tit-2{
+text-align: center;
+margin-top: 30px;
+margin-bottom: 30px;
+color: #FF4500;
+}
+
+#texto{
+    color: black;
+    font-size: 20px;
+    width: 90%;
+    margin-bottom: 0px;
+
+}
+
+
+#fotos2 {
+    width:78%;
+   HEIGHT:auto;
+    
+    margin: 0px auto;
+
+}  
+
+.images{
+    width: 29%;
+height: 250px;
+    margin: 15px 20px;
+    float: left;
+
+}    
+
+#meio-ambiente1{
+    width: 80%;	
+ margin: 2% auto;
+
+}
+
+#meio-ambiente{
+    width: 80%;	
+ margin: 4% auto;
+
+}
+
+
+#meio-ambiente h3{
+	text-align: center;
+}
+
+#meio-ambiente p{
+     text-align: justify;
+     font-size: 20px;
+color: black;
+
+
+}

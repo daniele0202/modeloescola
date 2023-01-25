@@ -1,0 +1,172 @@
+
+
+/* FOOTER */
+
+@media screen and (max-width: 768px) {
+      
+footer{
+    width: 100%;
+    background-color:#363636;
+    /* margin-bottom:0; */
+   
+    
+  
+    
+}
+
+.footer{
+    display: grid;
+    display: flex;
+    flex-flow: row wrap;
+  align-items: center;
+}
+
+#midrood {
+    width: auto;
+    
+    margin: 0 auto;
+}
+
+#midrood ul {
+    margin: 0 auto;
+}
+
+#midrood ul li {
+    float: left;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+#midrood ul li a{
+        width: 35px;
+        height: 35px;
+        float: left;
+        margin: 15px;
+        text-decoration: none;
+     align-items: center;
+        list-style: none;
+}
+
+#contato{
+    width: auto;
+    
+    margin: 0 auto;
+
+}
+
+
+#contato p{
+    padding-top: 20px ;
+ 
+}
+
+
+p.desemv {
+   text-align: center;
+   margin: 0 auto;
+}
+
+
+
+
+}
+
+ 
+@media screen and (min-width: 768px) {
+    
+
+footer{
+    width: 100%;
+    background-color:#363636;
+    /* margin-bottom:0; */
+   position: relative;
+    height: 12%;
+   bottom: 0%;
+    display: grid;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+footer .footer{
+    width: 70%;
+    height: 100px;
+    margin: 0 auto;
+  
+}
+
+#contato { 
+    width: 700px;
+    float: left;
+    position: absolute;
+    margin-left: 15%;
+   margin-top: 0px;
+    height: 8vh;
+
+ 
+}
+#contato ul li {
+    float: left;
+    width: 200px;
+    height: 40px;
+   
+    list-style: none;
+}
+
+#contato ul li img{
+    width: 30px;
+ position: absolute;
+ 
+}
+
+#contato h6 p{
+    color: white;
+}
+
+
+
+#contato h6, p, a {
+    width: 100%;
+  
+    text-decoration: none;
+    list-style: none;
+}
+
+#midrood{
+    width: 400px;
+    float: left;
+    margin-top: 5px;
+    height: 80px;
+    margin-left: 0px; 
+    
+}
+
+#midrood ul li {
+    width: 35px;
+    height: 0px;
+    float: left;
+    margin: 15px;
+    text-decoration: none;
+    align-items: center;
+    list-style: none;
+
+}
+
+
+
+#locimg{
+width: 26px;
+height: 33px;
+position: absolute;
+margin-right:20px;
+}
+
+.desemv {
+   position: absolute;
+   margin-left: 200px;
+}
+
+
+
+   
+/* } */

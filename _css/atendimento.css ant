@@ -1,0 +1,133 @@
+#corpo{
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+#inf-email{
+    width: 40%;
+    height: 360px;
+    background-color: rgb(218, 232, 233);
+    margin-top: 0px;
+    border-radius: 10px;
+    float: left;
+}
+
+form{
+
+    padding: 20px;
+}
+
+h2{
+    padding-top: 10px;
+    text-align: center;
+}
+
+#contat{
+    width: 30%;
+    height: 300px;
+    margin-left: 50%;
+   
+    margin-top: 100px;
+    background-color: #ccc;
+}
+
+
+/*cordenadores-----------------------------*/
+
+main{
+       width: 100%;
+	margin: 0 auto;
+
+}
+
+.cordenadores{
+	width: 300px;
+}
+
+main h1{
+
+   margin:50px 38% 20px;
+   color:#8B0000;	
+}
+
+
+#fotocord{
+   margin-top: 0px;
+	width: 100%;
+height: 500px;
+   background-attachment: fixed; 
+
+
+
+
+}
+
+
+#fotcolab ul{
+	width: 70%;
+	margin: 50px 15%;
+	
+	z-index:2;
+
+	align-items: center;
+ 	display: grid;
+        display: flex;
+        flex-flow: row wrap;
+	text-decoration: none;
+	
+list-style-type: none;
+  list-style: none;
+}
+
+
+#fotcolab ul li{
+width: 220px;
+height: 280px;
+position:relative;
+style-type: none;
+margin: 0 40px 0;
+text-decoration: none;
+	
+}
+
+#fotcolab img{
+width: 220px;
+height: 280px;
+border-radius:5px;
+
+}
+
+
+
+.onda{
+width: 500px;
+margin: 40px 35% 30px;
+}
+
+.fundcord{
+width: 100%;
+
+position: absolute;
+height: 600px;
+}
+
+
+#info{
+width: 100%;
+height:400px;
+background-color: #B40404;
+margin-bottom: 100px;
+}
+
+#info p{
+    width: 70%;
+padding-top:70px;
+    margin: 0px auto;
+	color: white;
+font-size: 20px;
+text-align: justify;
+}
+
+
