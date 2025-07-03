@@ -1467,9 +1467,9 @@ footer {
         font-size: 18px;
     }
 
-    #box-noticia #imgnoticias {
+    #imgnoticias {
         width: 300px;
-     margin: 20px 40px; 
+        
         text-align: center;
         align-items: center;
         justify-content: center;
@@ -1482,7 +1482,7 @@ footer {
 
 
 
-    #box-noticia {
+    #noticias #box-noticia {
         width: 300px;
         margin: 30px 50px;
         padding-bottom: 20px;
