@@ -1492,9 +1492,9 @@ footer {
 
     }
 
-    #noticias img {
-/*         width: 100%;
-        margin: 0; */
+    #box-noticia img {
+         width: 100%;
+        margin: 0; 
     }
 
     #nossos {
