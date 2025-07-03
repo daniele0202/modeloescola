@@ -1441,9 +1441,9 @@ footer {
 
     #noticias {
         width:auto;
-        margin: 0 10%;
+        margin: 0 auto;
         height: auto;
-        /* display: grid; */
+        
         display: flex;
         flex-flow: row wrap;
         justify-content: space-evenly;
@@ -1467,7 +1467,7 @@ footer {
         font-size: 18px;
     }
 
-    #imgnoticias {
+    #box-noticia #imgnoticias {
         width: 300px;
      margin: 20px 40px; 
         text-align: center;
